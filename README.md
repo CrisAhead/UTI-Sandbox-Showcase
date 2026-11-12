@@ -76,7 +76,9 @@ Estima la compliancia estática del paciente y evalúa reducciones escalonadas d
 ## Capturas de pantalla
 
 ![Simulación en vivo](assets/simulacion.png)
+
 ![Recomendación del asistente](assets/recomendacion.png)
+
 ![Análisis de cohorte](assets/cohorte.png)
 
 ---
